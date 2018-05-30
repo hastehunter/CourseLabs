@@ -1,7 +1,0 @@
-G:\Prog\_Projects\CourseLabs\Library(classes)\Library\bin\Debug\Library.exe.config
-G:\Prog\_Projects\CourseLabs\Library(classes)\Library\bin\Debug\Library.exe
-G:\Prog\_Projects\CourseLabs\Library(classes)\Library\bin\Debug\Library.pdb
-G:\Prog\_Projects\CourseLabs\Library(classes)\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
-G:\Prog\_Projects\CourseLabs\Library(classes)\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
-G:\Prog\_Projects\CourseLabs\Library(classes)\Library\obj\Debug\Library.exe
-G:\Prog\_Projects\CourseLabs\Library(classes)\Library\obj\Debug\Library.pdb
